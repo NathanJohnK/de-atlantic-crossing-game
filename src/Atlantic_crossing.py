@@ -6,3 +6,6 @@ class Ship:
           self.speed = speed
           self.position = position
           
+     def move(self, position):
+          if s
+          
