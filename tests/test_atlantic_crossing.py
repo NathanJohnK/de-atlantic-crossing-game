@@ -22,6 +22,8 @@ def test_ship_class_can_accept_a_value_for_speed():
 def test_ship_class_can_accept_a_value_for_position():
   test_class = Ship("Greyhound", 100, 250, 75, 0-0  )
   assert test_class.position == 0-0
+  
+  
 
     
      
